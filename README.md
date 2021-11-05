@@ -6,7 +6,7 @@ I finished the "Boss Machine" project on CodeCademy to practice CRUD functions. 
 
 ## To install
 
-Clone the repo
-npm install
-npm start
-navigate to http://localhost:4001 in your browser
+- Clone the repo
+- npm install
+- npm start
+- navigate to http://localhost:4001 in your browser
